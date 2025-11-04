@@ -1,0 +1,11 @@
+title: "Nicolò Paviato"
+description: "Postdoctoral Researcher — Dynamical Systems & Ergodic Theory"
+theme: minima
+
+markdown: kramdown
+author:
+  name: "Nicolò Paviato"
+  email: "nicolo (dot) paviato (at) gmail (dot) com"
+
+plugins:
+  - jekyll-feed

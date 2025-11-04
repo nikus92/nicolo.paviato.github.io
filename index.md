@@ -21,5 +21,3 @@ My research focuses on statistical properties of hyperbolic and expanding dynami
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=gOCEEw0AAAAJ)
 - [ORCID](https://orcid.org/0009-0008-5138-2092)
-- [CV](/cv)
-- [Contact](/contact)

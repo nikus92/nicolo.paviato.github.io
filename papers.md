@@ -5,25 +5,18 @@ title: "Publications"
 
 # Publications
   
-<style>
-  ol.reverse-counter {
-    counter-reset: section; /* will be set dynamically later */
-    list-style: none; /* remove default numbers */
-  }
+3. **M. Hochman and N. Paviato**  
+<a href="https://arxiv.org/abs/2501.11423">*A threshold for Poisson behavior of non-stationary product measures.*</a>  
+Ergodic Theory Dyn. Syst., to appear.
 
-  ol.reverse-counter li {
-    counter-increment: section -1; /* decrement for reversed numbering */
-    position: relative;
-    margin-bottom: 0.5em;
-  }
+2. **I. Melbourne, N. Paviato and D. Terhesiu**  
+<a href="https://arxiv.org/abs/2102.00026">*Decay in norm of transfer operators for semiflows.*</a>  
+Studia Math. 266 (2022) 149–166.
 
-  ol.reverse-counter li::before {
-    content: counter(section) ". "; /* prepend the number */
-    font-weight: normal; /* keep numbers normal */
-    position: absolute;
-    left: -2em; /* adjust spacing */
-  }
-</style>
+1. **I. Melbourne, N. Paviato and D. Terhesiu**  
+<a href="https://arxiv.org/abs/2104.04608">*Nonexistence of spectral gaps in Hölder spaces for continuous time dynamical systems.*</a>  
+Israel. J. Math. 247 (2022) 987–991.
+
 
 
 

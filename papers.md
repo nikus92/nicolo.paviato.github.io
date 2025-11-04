@@ -5,7 +5,20 @@ title: "Publications"
 
 # Publications
 
-<table>
+<style>
+  /* Remove table borders and spacing */
+  .publications-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .publications-table td {
+    border: none;       /* hide borders */
+    padding: 0.2em 0;   /* small vertical spacing between rows */
+    vertical-align: top;
+  }
+</style>
+
+<table class="publications-table">
   <tr>
     <td>3.</td>
     <td><strong>M. Hochman and N. Paviato</strong><br>
@@ -28,4 +41,5 @@ title: "Publications"
     </td>
   </tr>
 </table>
+
   

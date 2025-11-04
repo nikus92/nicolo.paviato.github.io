@@ -14,5 +14,5 @@ Israel. J. Math. 247 (2022) 987–991.
 Studia Math. 266 (2022) 149–166.
 
 **M. Hochman and N. Paviato** 
-<a href="https://arxiv.org/abs/2501.11423">*A threshold for Poisson behavior of non-stationary product measures.*  </a>
+<a href="https://arxiv.org/abs/2501.11423">*A threshold for Poisson behavior of non-stationary product measures.*</a>
 Ergodic Theory Dyn. Syst., to appear.

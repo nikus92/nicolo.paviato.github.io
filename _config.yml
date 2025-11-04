@@ -8,3 +8,10 @@ author:
 
 plugins:
   - jekyll-feed
+
+<style>
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+</style>

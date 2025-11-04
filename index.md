@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-<img src="assets/profile.jpg" alt="profile" style="width:340px;border-radius:8px;float:right;margin:0 0 15px 20px;">
+<img src="assets/profile.jpg" alt="profile" style="width:400px;border-radius:8px;float:right;margin:0 0 15px 20px;">
 
 
 # Nicolò Paviato

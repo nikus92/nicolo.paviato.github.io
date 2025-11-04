@@ -6,7 +6,7 @@ title: "Publications"
 # Publications
 
 **I. Melbourne, N. Paviato and D. Terhesiu**  
-<a href="https://arxiv.org/abs/2104.04608" target="_blank">*Nonexistence of spectral gaps in Hölder spaces for continuous time dynamical systems.*</a>
+<a href="https://arxiv.org/abs/2104.04608" target="_blank">*Nonexistence of spectral gaps in Hölder spaces for continuous time dynamical systems.*</a>**
 Israel. J. Math. 247 (2022) 987–991.
 
 **I. Melbourne, N. Paviato and D. Terhesiu** 

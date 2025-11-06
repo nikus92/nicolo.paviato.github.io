@@ -41,7 +41,8 @@ p {
     justify-content: flex-end; 
     align-items: center;
     padding: 15px 0;
-    margin-bottom: 40px;
+    /* FIX 1: Reduced margin-bottom to pull content up */
+    margin-bottom: 20px; 
     border-bottom: 1px solid #eee; /* Subtle separator line */
 }
 
@@ -64,7 +65,8 @@ p {
     display: flex;
     align-items: flex-start; /* Ensure everything aligns to the top */
     gap: 40px; /* Increased gap for better separation */
-    margin-top: 30px;
+    /* FIX 2: Removed margin-top as it was redundant with navbar margin-bottom */
+    margin-top: 0; 
 }
 
 .main-text {
@@ -83,9 +85,11 @@ p {
     }
 
     /* Center image on mobile */
-    .main-container img {
+    .profile-image {
         display: block;
         margin: 0 auto;
+        max-width: 80%; /* Allow it to shrink, but not too small */
+        height: auto; /* Maintain aspect ratio */
     }
 
     .navbar {
@@ -95,11 +99,13 @@ p {
 
 /* 4. Profile Image Styling */
 .profile-image {
-    width: 200px;
-    min-width: 200px; /* Fix image width */
+    max-width: 200px; /* Limits the image size to 200px maximum */
+    width: 100%;     /* Ensures the image will occupy 100% of its container width if smaller than 200px */
+    height: auto;    /* Crucial: Ensures aspect ratio is maintained */
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Slightly softer shadow */
 }
+
 
 /* 5. Links and HR Separator */
 hr {

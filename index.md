@@ -1,10 +1,11 @@
 <link rel="stylesheet" href="assets/style.css">
-<!-- If you want to use the Open Sans font, you need to link it here -->
+<!-- To use the Open Sans font defined in the CSS, you must link it here -->
 <link href="https://www.google.com/search?q=https://fonts.googleapis.com/css2%3Ffamily%3DOpen%2BSans:wght%40400%3B500%3B700%26display%3Dswap" rel="stylesheet">
 
 <!-- Top Navigation Bar (Recommended to be in a Layout file for Jekyll, but included here for completeness) -->
 
 <div class="navbar">
+<!-- Note: You might need to change 'index.md' to just '/' depending on your Jekyll configuration -->
 <a href="index.md" class="active">Home</a>
 <a href="contact.md">Contact</a>
 <a href="cv.md">CV</a>
@@ -50,10 +51,10 @@ drawn digits, in connection with Poisson genericity.
 
 </div>
 
-<!-- Footer -->
+<!-- Footer: Contains only the desired professional description -->
 
 <div class="footer">
 <p>
- | Postdoctoral Researcher – Dynamical Systems & Ergodic Theory
+Postdoctoral Researcher – Dynamical Systems & Ergodic Theory
 </p>
 </div>

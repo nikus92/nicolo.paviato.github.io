@@ -1,11 +1,4 @@
-
 <link rel="stylesheet" href="assets/style.css">
-<style>
-a:hover {
-  color: #0056b3;
-  text-decoration: underline;
-}
-</style>
 
 <div style="display:flex;align-items:flex-start;gap:25px;margin-top:30px;">
 
@@ -31,12 +24,7 @@ drawn digits, in connection with Poisson genericity.</p>
 </div>
 
 <div>
-<img src="assets/profile.jpg" alt="Nicolò Paviato Profile" style="width:200px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+<img src="assets/profile.jpg" alt="profile" style="width:200px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);">
 </div>
 
-</div>
-<div style="margin-top: 50px; padding: 20px 0; border-top: 1px solid #eee; font-size: 0.9em; color: #666; text-align: center;">
-  <p style="margin: 0;">
-    Nicolò Paviato | Postdoctoral Researcher – Dynamical Systems & Ergodic Theory
-  </p>
 </div>

@@ -54,6 +54,6 @@ drawn digits, in connection with Poisson genericity.
 
 <div class="footer">
 <p>
-Nicolò Paviato | Postdoctoral Researcher – Dynamical Systems & Ergodic Theory
+ | Postdoctoral Researcher – Dynamical Systems & Ergodic Theory
 </p>
 </div>

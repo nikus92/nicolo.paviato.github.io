@@ -31,7 +31,7 @@
 
   <div>
     <img src="assets/profile.jpg" alt="profile"
-         style="width:220px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+         style="width:200px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);">
   </div>
 
 </div>

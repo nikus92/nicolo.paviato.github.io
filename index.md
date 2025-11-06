@@ -24,10 +24,9 @@ drawn digits, in connection with Poisson genericity.</p>
 
 <hr>
 
-
-    **Links**
-    - [Google Scholar](https://scholar.google.com/)
-    - [ORCID](https://orcid.org/)
+**Links**
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
   </div>
 
   <div>

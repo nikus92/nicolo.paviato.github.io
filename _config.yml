@@ -4,6 +4,7 @@ include:
 
 description: "Postdoctoral Researcher — Dynamical Systems & Ergodic Theory"
 theme: minima
+#theme: jekyll-theme-minimal
 
 markdown: kramdown
 author:

@@ -1,11 +1,10 @@
 <link rel="stylesheet" href="assets/style.css">
 
-
 <style>
-  a:hover {
-    color: #0056b3;
-    text-decoration: underline;
-  }
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
 </style>
 
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-top: 30px;">
@@ -13,20 +12,23 @@
   <div style="flex: 1;">
     <h1>Nicolò Paviato</h1>
     <p><strong>Postdoctoral Researcher</strong><br>
-       <a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a></p>
+      <a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a>
+    </p>
 
-<p>I am a postdoctoral researcher at the Weizmann Institute of Science, working with 
-<a href="https://www.weizmann.ac.il/math/sarigo/home" target="_blank">Prof. Omri Sarig</a>. 
-My research focuses on statistical properties of hyperbolic and expanding dynamical systems, 
-with a particular emphasis on the central limit theorem and its relative functional version. 
-More recently, I have also worked on typical behaviours of random sequences of independently 
-drawn digits, in connection with Poisson genericity.</p>
+    <p>I am a postdoctoral researcher at the Weizmann Institute of Science, working with 
+    <a href="https://www.weizmann.ac.il/math/sarigo/home" target="_blank">Prof. Omri Sarig</a>. 
+    My research focuses on statistical properties of hyperbolic and expanding dynamical systems, 
+    with a particular emphasis on the central limit theorem and its relative functional version. 
+    More recently, I have also worked on typical behaviours of random sequences of independently 
+    drawn digits, in connection with Poisson genericity.</p>
 
-<hr>
+    <hr>
 
-**Links**
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/)
+    <h3>Links</h3>
+    <ul>
+      <li><a href="https://scholar.google.com/">Google Scholar</a></li>
+      <li><a href="https://orcid.org/">ORCID</a></li>
+    </ul>
   </div>
 
   <div>

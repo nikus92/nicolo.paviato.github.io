@@ -1,23 +1,34 @@
----
-layout: default
-title: "Home"
----
+<style>
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+</style>
 
-<img src="assets/profile.jpg" alt="profile" style="width:400px;border-radius:8px;float:right;margin:0 0 15px 20px;">
+<div style="display: flex; align-items: flex-start; gap: 25px; margin-top: 30px;">
 
+  <div style="flex: 1;">
+    <h1>Nicolò Paviato</h1>
+    <p><strong>Postdoctoral Researcher</strong><br>
+       <a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a></p>
 
-# Nicolò Paviato
+    <p>I am a postdoctoral researcher at the Weizmann Institute of Science, working with 
+       <a href="https://www.weizmann.ac.il/math/sarigo/home" target="_blank">Prof. Omri Sarig</a>. 
+       My research focuses on statistical properties of hyperbolic and expanding dynamical systems, 
+       with a particular emphasis on the central limit theorem and its relative functional version. 
+       More recently, I have also worked on typical behaviours of random sequences of independently 
+       drawn digits, in connection with Poisson genericity.</p>
 
-Postdoctoral Researcher  
-**Weizmann Institute of Science**
+    <hr>
 
-I am a postdoctoral researcher at the Weizmann Institute of Science, working with <a href="https://www.weizmann.ac.il/math/sarigo/home" target="_blank">Prof. Omri Sarig</a>.
+    **Links**
+    - [Google Scholar](https://scholar.google.com/)
+    - [ORCID](https://orcid.org/)
+  </div>
 
-My research focuses on statistical properties of hyperbolic and expanding dynamical systems, with a particular emphasis on the central limit theorem and its relative functional version. More recently, I have also worked on typical behaviours of random sequences of independently drawn digits, in connection with Poisson genericity.
+  <div>
+    <img src="assets/profile.jpg" alt="profile"
+         style="width:220px;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
 
----
-
-### Links
-
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=gOCEEw0AAAAJ)
-- [ORCID](https://orcid.org/0009-0008-5138-2092)
+</div>

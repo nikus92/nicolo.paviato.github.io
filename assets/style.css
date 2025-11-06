@@ -1,14 +1,141 @@
-a {
-  color: #0070c9;
-  text-decoration: none;
+/* --- Academic Website Stylesheet (assets/style.css) --- */
+
+/* 1. Base Styles and Typography */
+body {
+    /* Using a modern, highly readable sans-serif font */
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #ffffff;
+    
+    /* Center content and limit width for optimal reading experience */
+    max-width: 1000px; 
+    margin: 0 auto;
+    padding: 20px;
 }
 
-a:hover {
-  color: #0056b3;
-  text-decoration: underline;
+/* Headings */
+h1 {
+    font-size: 2.5em;
+    font-weight: 700; /* Bolder name */
+    color: #1a1a1a;
+    margin-bottom: 0.1em;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+h3 {
+    font-size: 1.3em;
+    color: #444;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* Paragraph Spacing */
+p {
+    margin-top: 0;
+    margin-bottom: 1.5em; /* Increased spacing for better readability */
+}
+
+/* 2. Navigation Bar (Top Menu) */
+.navbar {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    padding: 15px 0;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #eee; /* Subtle separator line */
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #444;
+    margin-left: 25px;
+    padding: 5px 0;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.navbar a:hover {
+    color: #0056b3; /* Your preferred blue hover color */
+    text-decoration: none; /* No underline on hover for a cleaner look */
+}
+
+/* 3. Main Content Layout (Flex Container from index.md) */
+.main-container {
+    display: flex;
+    align-items: flex-start; /* Ensure everything aligns to the top */
+    gap: 40px; /* Increased gap for better separation */
+    margin-top: 30px;
+}
+
+.main-text {
+    flex: 1;
+}
+
+/* Adjustments for smaller screens (Mobile Responsiveness) */
+@media (max-width: 768px) {
+    .main-container {
+        flex-direction: column; /* Stack vertically on small screens */
+        gap: 20px;
+    }
+
+    .main-container > div {
+        width: 100%; /* Full width for stacked elements */
+    }
+
+    /* Center image on mobile */
+    .main-container img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .navbar {
+        justify-content: space-around; /* Distribute links evenly */
+    }
+}
+
+/* 4. Profile Image Styling */
+.profile-image {
+    width: 200px;
+    min-width: 200px; /* Fix image width */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Slightly softer shadow */
+}
+
+/* 5. Links and HR Separator */
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #ddd;
+    margin: 20px 0;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+ul a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+/* Combined hover rule */
+ul a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* 6. Footer Styles */
+.footer {
+    margin-top: 50px;
+    padding: 20px 0;
+    border-top: 1px solid #eee;
+    font-size: 0.85em;
+    color: #888;
+    text-align: center;
 }

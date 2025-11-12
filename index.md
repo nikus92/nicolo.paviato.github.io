@@ -1,12 +1,6 @@
 <link rel="stylesheet" href="assets/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 
-<style>
-  a:hover {
-    color: #0056b3;
-    text-decoration: underline;
-  }
-</style>
 
 
 <!-- Top Navigation Bar (Recommended to be in a Layout file for Jekyll, but included here for completeness) -->

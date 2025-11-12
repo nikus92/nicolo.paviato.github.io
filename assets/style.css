@@ -157,9 +157,14 @@ ul a:hover {
 }
 
 /* 7. Remove automatically injected site footer (name/email) */
-footer.site-footer,
+footer, .site-footer {
+    display: none !important;
+}
+
+/* 7. Remove automatically injected site footer (name/email) */
+/*footer.site-footer,
 .site-footer,
 footer p:has(a[href^="mailto"]),
 footer p:contains("@") {
   display: none !important;
-}
+}*/

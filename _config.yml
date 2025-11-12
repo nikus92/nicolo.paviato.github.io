@@ -7,8 +7,7 @@ description: "Postdoctoral Researcher — Dynamical Systems & Ergodic Theory"
 theme: jekyll-theme-minimal
 
 markdown: kramdown
-author:
-  email: "nicolo (dot) paviato (at) gmail (dot) com"
+#author:email: "nicolo (dot) paviato (at) gmail (dot) com"
 
 plugins:
   - jekyll-feed

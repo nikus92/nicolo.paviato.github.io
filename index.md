@@ -21,7 +21,7 @@
 <h1>Nicolò Paviato</h1>
 <p style="margin-bottom: 0.5em;"><strong>Postdoctoral Researcher</strong></p>
 <p style="margin-top: 0;">
-<a href="https://www.weizmann.ac.il/" target="_blank">Weizmann Institute of Science</a>
+<a href="https://www.weizmann.ac.il/math/" target="_blank">Weizmann Institute of Science</a>
 </p>
 
 <h3>Research Focus</h3>

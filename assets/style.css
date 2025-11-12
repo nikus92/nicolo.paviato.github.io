@@ -1,5 +1,11 @@
 /* --- Academic Website Stylesheet (assets/style.css) --- */
 
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+
 /* 1. Base Styles and Typography */
 body {
     /* Using a modern, highly readable sans-serif font */

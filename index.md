@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="assets/style.css">
 <!-- To use the Open Sans font defined in the CSS, you must link it here -->
-<link href="https://www.google.com/search?q=https://fonts.googleapis.com/css2%3Ffamily%3DOpen%2BSans:wght%40400%3B500%3B700%26display%3Dswap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+
 
 <!-- Top Navigation Bar (Recommended to be in a Layout file for Jekyll, but included here for completeness) -->
 
